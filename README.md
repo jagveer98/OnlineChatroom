@@ -1,2 +1,2 @@
 # OnlineChatroom
-Chatting website using PHP, MYSQL & AJAX.
+Chatting website using PHP, MYSQL and AJAX.
